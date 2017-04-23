@@ -1,0 +1,31 @@
+IIT Jodhpur                             26.271775, 73.033017
+Sabji Mandi Link Road			26.272436, 73.033880
+Bhaskar Chauraha			26.273879, 73.030776
+Bhati Circle				26.274424, 73.036147
+Ratanada Circle				26.271530, 73.037138
+IIT Front Gate				26.270110, 73.035002
+MBM College				26.268547, 73.032990
+Circuit House Circle			26.285334, 73.038843
+Senapati Bhawan Circle			26.270531, 73.031257
+Subhash Chowk  				26.277448, 73.030561
+Tarachand Circle			26.286479, 73.036931
+Nai Sarak Circle			26.288451, 73.025831
+Sojati Gate				26.288055, 73.023687
+Sardar Market				26.294062, 73.024255
+Ghanta Ghar				26.294899, 73.024073
+Ansal Royal Plaza 			26.289051, 73.028568
+Merti Gate				26.294508, 73.029590
+Paota Circle				26.294096, 73.038680
+Baldevram Mirdha Circle			26.294442, 73.035601
+Khaas Bagh				26.282098, 73.030214
+Hotel Jasol Heritage			26.276754, 73.034286
+Jaswant Sarai				26.283788, 73.021948
+Jalori Gate				26.284327, 73.016230
+Olympic Chauraha			26.280837, 73.018737
+UIT Circle				26.274034, 73.022047
+CrossRoads				26.271943, 73.023207
+Bhairu Ji Circle			26.270195, 73.018803
+Point					26.274544, 73.019340
+5th Road Chauraha			26.284879, 73.036931
+Jaljog Circle				26.286479, 73.036931
+Paota circle				26.286479, 73.036931
